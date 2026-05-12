@@ -1,0 +1,2 @@
+1266:                     videoRef.current.currentTime = newTime;
+1284:                     videoRef.current.currentTime = newTime;
